@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "label": "Prompt 1",
+    "prompt": "KS-AO-HUB, 1girl, solo, blonde hair, pointy ears, long hair, yellow eyes, lips, makeup, lipstick, looking at viewer, serious, collarbone, bare shoulders",
+    "negative_prompt": ""
+  },
+  {
+    "id": 2,
+    "label": "Prompt 2",
+    "prompt": "KS-AO-HUB, crm dress, wf, 1girl, long hair, weapon, solo, sword, blonde hair, pointy ears, gloves, armpits, dress, very long hair, holding weapon, breasts, holding sword, yellow eyes, holding, red dress, elbow gloves, fangs, bare shoulders, looking at viewer, katana, vampire, cowboy shot",
+    "negative_prompt": ""
+  },
+  {
+    "id": 3,
+    "label": "Prompt 3",
+    "prompt": "KS-AO-HUB, 1girl, blonde hair, solo, long hair, pointy ears, breasts, yellow eyes, very long hair, bangs, large breasts, white background, from side, looking left",
+    "negative_prompt": "crm dress, wf, red dress"
+  },
+  {
+    "id": 4,
+    "label": "Prompt 4",
+    "prompt": "KS-AO-HUB, crm dress, wf, 1girl, long hair, solo, blonde hair, breasts, gloves, very long hair, yellow eyes, dress, elbow gloves, hair ribbon, ribbon, red dress, black pantyhose, simple background, bare shoulders, white gloves, hand on hip, strapless, standing, large breasts, pointy ears, black ribbon, looking down, looking at viewer, smile, from below, full body",
+    "negative_prompt": ""
+  },
+  {
+    "id": 5,
+    "label": "Prompt 5",
+    "prompt": "KS-AO-HUB, crm dress, wf, 1girl, long hair, solo, breasts, blonde hair, pointy ears, gloves, dress, bare shoulders, very long hair, elbow gloves, vampire, red dress, hair ribbon, ribbon, hand on hip, yellow eyes, white gloves, simple background, cleavage, large breasts, strapless, bangs, collarbone, black ribbon, upper body",
+    "negative_prompt": ""
+  }
+]
