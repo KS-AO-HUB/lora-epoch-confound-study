@@ -5,7 +5,7 @@
 CLIP identity correlates with epoch count (r = +0.83), not dataset size.
 
 Smaller datasets appear to perform better because they massively increase
-per-image exposure — not because they produce better generalization.
+per-image exposure, not because they produce better generalization.
 
 ## What This Project Does
 
